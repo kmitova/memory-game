@@ -1,11 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap');
+
+body {
+    background-color: #facc15;
+    color: white;
+}
 .App {
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Quicksand', sans-serif;
+
+  margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h2 {
+  margin-top: -.7em;
+}
+
+.scores {
+  margin-top: -1em;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
 }
 
 .cards-container {
