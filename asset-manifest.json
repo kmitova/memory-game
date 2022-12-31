@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.a5aa47b5.css",
+    "main.js": "/memory-game/static/js/main.22e83c5f.js",
+    "static/media/bt21-5.jpeg": "/memory-game/static/media/bt21-5.f3e94f31fb4c1cbff7b9.jpeg",
+    "static/media/bt21.jpeg": "/memory-game/static/media/bt21.b3068f1775212a8cc52f.jpeg",
+    "static/media/bt21-3.jpeg": "/memory-game/static/media/bt21-3.8e83fea0684ff5acb1dd.jpeg",
+    "static/media/cooky.png": "/memory-game/static/media/cooky.995c0fe50077e63d0ff6.png",
+    "static/media/bt21-4.jpeg": "/memory-game/static/media/bt21-4.a2acdfd4ecb05ac40221.jpeg",
+    "static/media/mang.png": "/memory-game/static/media/mang.8e82e8f9948f0a9ab753.png",
+    "static/media/bt21-2.jpeg": "/memory-game/static/media/bt21-2.ebdb776355ce21fabdef.jpeg",
+    "static/media/koya.png": "/memory-game/static/media/koya.a99c61bd41b50d7efdf1.png",
+    "static/media/tata.png": "/memory-game/static/media/tata.394856e37f7250f1a72a.png",
+    "static/media/chimmy.png": "/memory-game/static/media/chimmy.cbd96bb2c5ede96be93a.png",
+    "static/media/shooky.jpeg": "/memory-game/static/media/shooky.249eda416e0dcf9ba7c7.jpeg",
+    "static/media/rj.jpeg": "/memory-game/static/media/rj.c350c9082e22fb8bc770.jpeg",
+    "index.html": "/memory-game/index.html",
+    "main.a5aa47b5.css.map": "/memory-game/static/css/main.a5aa47b5.css.map",
+    "main.22e83c5f.js.map": "/memory-game/static/js/main.22e83c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5aa47b5.css",
+    "static/js/main.22e83c5f.js"
+  ]
+}
