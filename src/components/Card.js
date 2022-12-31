@@ -2,9 +2,9 @@ import React from "react";
 
 function Card(props) {
   return (
-    <div onClick={() => props.playGame(props.card)}>
-      <img src="" alt="" />
-      <p>{props.card.id}</p>
+    <div className="card" onClick={() => props.playGame(props.card)}>
+      <img src={props.card.src} alt="{props.card.alt}" />
+      <p>{props.card.alt}</p>
     </div>
   );
 }
